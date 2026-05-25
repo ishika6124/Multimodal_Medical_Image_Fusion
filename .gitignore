@@ -1,0 +1,8 @@
+preprocessing/
+*.png
+*.jpg
+*.jpeg
+*.nii
+*.h5
+*.pth
+*.pt
