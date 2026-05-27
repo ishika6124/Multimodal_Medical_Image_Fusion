@@ -263,15 +263,6 @@ The proposed framework successfully improves:
 
 ---
 
-# Future Work
-
-- Real-time medical image fusion
-- Multi-modal transformer scaling
-- Clinical evaluation with radiologists
-- Integration with downstream diagnostic systems
-- Improved segmentation-guided fusion
-
----
 
 # Course Information
 
